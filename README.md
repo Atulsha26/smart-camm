@@ -1,1 +1,1 @@
-# smart-camm
+# smart-security-camera
